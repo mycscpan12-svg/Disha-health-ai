@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 
 /* ═══════════════════════════════════════════════════════════════
    STYLES
@@ -1149,6 +1150,7 @@ export default function App() {
           </>
         )}
       </div>
+      <Analytics />
     </>
   );
 }
