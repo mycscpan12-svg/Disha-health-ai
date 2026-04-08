@@ -1,9 +1,0 @@
-{
-  "short_name": "Disha",
-  "name": "Disha AI Health Coach",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#0f4c3a",
-  "background_color": "#f5f0e8",
-  "orientation": "portrait"
-}
